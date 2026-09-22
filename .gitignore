@@ -1,0 +1,4 @@
+# Only the compiled CV is published; source and build files stay local.
+cv/*
+!cv/cv.pdf
+.DS_Store
